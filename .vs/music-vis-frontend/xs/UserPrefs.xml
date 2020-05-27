@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{98ACA312-CA11-E0C8-E675-9F4634F5E942}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Main.cs">
+    <Files>
+      <File FileName="Assets/Main.cs" Line="59" Column="27" />
+      <File FileName="Assets/Test.cs" Line="7" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="music-vis-frontend" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="200911ed-4249-46ff-ac02-8a6a197aa046" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
